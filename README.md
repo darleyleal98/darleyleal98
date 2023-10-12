@@ -2,7 +2,9 @@
 
 ##
 <h3>Sobre mim:</h3>
-<p>Sou apaixonado por tecnologia e inovação, atualmente atuo como estagiário no departamento de TI do Grupo Uninter, especificamente no setor de projetos.
+<p>Sou apaixonado por tecnologia e inovação, atualmente atuo como estagiário no departamento de TI do Grupo Uninter, especificamente no setor de projetos<p/>
+
+  
 - 🔭 Hoje trabalho como estágiario em Gestão de Projetos - TI
 - 🌱 Estudante de Engenharia de Software 📚🧑🏻‍💻 | Estagiário em Gestão de Projetos - TI 🚀
 - ⚡ Pronouns: ele/dele
@@ -10,7 +12,8 @@
 <div>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darleyleal98&show_icons=true&theme=github_dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darleyleal98&layout=compact&langs_count=16&theme=github_dark"/>
+<
+img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darleyleal98&layout=compact&langs_count=16&theme=github_dark"/>
 
 </div>
 
