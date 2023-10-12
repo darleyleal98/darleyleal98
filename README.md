@@ -12,8 +12,7 @@
 <div>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darleyleal98&show_icons=true&theme=github_dark"/>
-<
-img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darleyleal98&layout=compact&langs_count=16&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darleyleal98&layout=compact&langs_count=16&theme=github_dark"/>
 
 </div>
 
@@ -41,6 +40,7 @@ img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?us
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
 </div>
   
   ##
