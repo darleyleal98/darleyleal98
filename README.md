@@ -1,9 +1,14 @@
 ### Olá! Eu sou o Darley 🧑‍💻
 
+##
+<h3>Sobre mim:</h3>
+<p>Sou apaixonado por tecnologia e inovação, atualmente atuo como estagiário no departamento de TI do Grupo Uninter, especificamente no setor de projetos. Sou dinâmico e colaborativo, características que refletem minha dedicação em contribuir efetivamente em equipe. 
+
 - 🔭 Hoje trabalho como estágiario em Gestão de Projetos - TI
-- 🌱 Atualmente faço faculdade de Engenharia de Software e estudo a linguagem C# e tecnologias .NET
+- 🌱 Estudante de Engenharia de Software 📚🧑🏻‍💻 | Estagiário em Gestão de Projetos - TI 🚀
 - ⚡ Pronouns: ele/dele
 
+![Darley Leal's GitHub stats](https://github-readme-stats.vercel.app/api?username=darleyleal98&show_icons=true&theme=github_dark)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="darley-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
