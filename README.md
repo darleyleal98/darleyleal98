@@ -2,7 +2,7 @@
 
 ##
 <h3>Sobre mim:</h3>
-<p>Sou apaixonado por tecnologia e inovação, atualmente atuo como estagiário no departamento de TI do Grupo Uninter, especificamente no setor de projetos<p/>
+<p>Sou apaixonado por tecnologia e inovação, atualmente atuo como estagiário no departamento de TI do Grupo Uninter, no setor de projetos. Além dos meus estudos na faculdade, me aprofundo na linguagem C# e nas tecnologias do ambiente .NET. <p/>
 
   
 - 🔭 Hoje trabalho como estágiario em Gestão de Projetos - TI
