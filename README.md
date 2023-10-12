@@ -1,14 +1,13 @@
 ### Olá! Eu sou o Darley 🧑‍💻
 
 - 🔭 Hoje trabalho como estágiario em Gestão de Projetos - TI
-- 🌱 Atualmente faço faculdade de Engenharia de Software
+- 🌱 Atualmente faço faculdade de Engenharia de Software e estudo a linguagem C# e tecnologias .NET
 - ⚡ Pronouns: ele/dele
 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="darley-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="darley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="darley-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="darley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="darley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="darley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
