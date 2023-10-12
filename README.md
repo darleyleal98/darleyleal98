@@ -8,7 +8,14 @@
 - 🌱 Estudante de Engenharia de Software 📚🧑🏻‍💻 | Estagiário em Gestão de Projetos - TI 🚀
 - ⚡ Pronouns: ele/dele
 
-![Darley Leal's GitHub stats](https://github-readme-stats.vercel.app/api?username=darleyleal98&show_icons=true&theme=github_dark)
+<div>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=darleyleal98&show_icons=true&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=truecompact/>
+
+</div>
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="darley-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
