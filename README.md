@@ -2,8 +2,7 @@
 
 ##
 <h3>Sobre mim:</h3>
-<p>Sou apaixonado por tecnologia e inovação, atualmente atuo como estagiário no departamento de TI do Grupo Uninter, especificamente no setor de projetos. Sou dinâmico e colaborativo, características que refletem minha dedicação em contribuir efetivamente em equipe. 
-
+<p>Sou apaixonado por tecnologia e inovação, atualmente atuo como estagiário no departamento de TI do Grupo Uninter, especificamente no setor de projetos.
 - 🔭 Hoje trabalho como estágiario em Gestão de Projetos - TI
 - 🌱 Estudante de Engenharia de Software 📚🧑🏻‍💻 | Estagiário em Gestão de Projetos - TI 🚀
 - ⚡ Pronouns: ele/dele
