@@ -6,7 +6,7 @@
 
   
 - 🔭 Hoje trabalho como estágiario em Gestão de Projetos - TI
-- 🌱 Estudante de Engenharia de Software 📚🧑🏻‍💻 | Estagiário em Gestão de Projetos - TI 🚀
+- 🌱 Estudante de Engenharia de Software 📚🧑🏻‍💻 | 🤓 Apaixonado por programação 🚀
 - ⚡ Pronouns: ele/dele
 
 <div>
