@@ -2,7 +2,7 @@
 
 ##
 <h3>Sobre mim:</h3>
-<p>Sou apaixonado por tecnologia e inovação, atualmente atuo como estagiário no departamento de TI do Grupo Uninter, no setor de projetos. Além dos meus estudos na faculdade, me aprofundo na linguagem C# e nas tecnologias do ambiente .NET. <p/>
+<p>No momento, sou estagiário no departamento de Tecnologia do Grupo Uninter especificamente no setor de gestão de projetos. Sou dinâmico, colaborativo e apaixonado por inovação. Além do aprendizado sobre metodologias ágeis como Scrum e Kanban sigo focado nos princípios da Orientação à Objetos especialmente na linguagem C#.. <p/>
 
   
 - 🔭 Hoje trabalho como estágiario em Gestão de Projetos - TI
