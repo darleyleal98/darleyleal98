@@ -2,10 +2,10 @@
 
 ##
 <h3>Sobre mim:</h3>
-<p>No momento, sou estagiário no departamento de Tecnologia do Grupo Uninter especificamente no setor de gestão de projetos. Sou dinâmico, colaborativo e apaixonado por inovação. Além do aprendizado sobre metodologias ágeis como Scrum e Kanban sigo focado nos princípios da Orientação à Objetos especialmente na linguagem C#.. <p/>
+<p>No momento, sou estagiário no departamento de Tecnologia do Grupo Uninter. Sou dinâmico, colaborativo e apaixonado por inovação. Além do aprendizado sobre metodologias ágeis como Scrum e Kanban sigo focado nos princípios da Orientação à Objetos especialmente na linguagem C#.. <p/>
 
   
-- 🔭 Hoje trabalho como estagiário em Gestão de Projetos - TI
+- 🔭 Hoje trabalho como estagiário
 - 🌱 Estudante de Engenharia de Software 📚🧑🏻‍💻 | 🤓 Apaixonado por programação 🚀
 - ⚡ Pronouns: ele/dele
 
