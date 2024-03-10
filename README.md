@@ -1,6 +1,4 @@
 ## 👋 Olá! Eu sou o Darley
-
-<h3>Sobre mim:</h3>
 <p>
   <code>
   public class OlaMundo {
@@ -9,6 +7,8 @@
     }
 }    
   </code>
+
+<h3>Sobre mim:</h3>
 
 ## 🧑‍💻 Desenvolvedor Android Júnior e futuro Engenheiro de Software 
 
