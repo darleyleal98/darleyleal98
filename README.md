@@ -1,6 +1,5 @@
-## 👋 Olá! Eu sou o Darley 🧑‍💻 Desenvolvedor Android Júnior e futuro Engenheiro de Software 
+## 👋 Olá! Eu sou o Darley
 
-##
 <h3>Sobre mim:</h3>
 <p>
   <code>
@@ -10,6 +9,8 @@
     }
 }    
   </code>
+
+## 🧑‍💻 Desenvolvedor Android Júnior e futuro Engenheiro de Software 
 
 Minha paixão pela inovação e pelos detalhes me levaram em direção ao desenvolvimento mobile no qual foco juntamente com a minha graduação os meus estudos na linguagem Kotlin e nos padrões Android. Escolhi essa área porque quero desenvolver aplicações inteligentes capazes de interagir em diversos dispositivos, como smartphones, tablets, carros conectados e assistentes virtuais. <p/>
 
