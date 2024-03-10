@@ -3,11 +3,14 @@
 ##
 <h3>Sobre mim:</h3>
 <p>
+  ```
   public class OlaMundo {
     public static void main(String[] args) {
         System.out.println("Olá, mundo!!");
     }
 }
+```
+
 👋Eu sou o Darley, Desenvolvedor Android Júnior e futuro Engenheiro de Software 🧑‍💻
 <br>
 Minha paixão pela inovação e pelos detalhes me levaram em direção ao desenvolvimento mobile no qual foco juntamente com a minha graduação os meus estudos na linguagem Kotlin e nos padrões Android. Escolhi essa área porque quero desenvolver aplicações inteligentes capazes de interagir em diversos dispositivos, como smartphones, tablets, carros conectados e assistentes virtuais. <p/>
