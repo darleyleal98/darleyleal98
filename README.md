@@ -2,7 +2,15 @@
 
 ##
 <h3>Sobre mim:</h3>
-<p>No momento, sou estagiário no departamento de Tecnologia do Grupo Uninter. Sou dinâmico, colaborativo e apaixonado por inovação. Além do aprendizado sobre metodologias ágeis como Scrum e Kanban sigo focado nos princípios da Orientação à Objetos especialmente na linguagem C#, Kotlin e Java.. <p/>
+<p>
+  public class OlaMundo {
+    public static void main(String[] args) {
+        System.out.println("Olá, mundo!!");
+    }
+}
+👋Eu sou o Darley, Desenvolvedor Android Júnior e futuro Engenheiro de Software 🧑‍💻
+<br>
+Minha paixão pela inovação e pelos detalhes me levaram em direção ao desenvolvimento mobile no qual foco juntamente com a minha graduação os meus estudos na linguagem Kotlin e nos padrões Android. Escolhi essa área porque quero desenvolver aplicações inteligentes capazes de interagir em diversos dispositivos, como smartphones, tablets, carros conectados e assistentes virtuais. <p/>
 
   
 - 🔭 Hoje trabalho como estagiário
