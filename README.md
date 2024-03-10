@@ -11,7 +11,7 @@
 <p>Minha paixão pela inovação e pelos detalhes me levaram em direção ao desenvolvimento mobile no qual foco juntamente com a minha graduação os meus estudos na linguagem Kotlin e nos padrões Android. Escolhi essa área porque quero desenvolver aplicações inteligentes capazes de interagir em diversos dispositivos, como smartphones, tablets, carros conectados e assistentes virtuais. </p>
 
 - 🔭 Hoje trabalho como estagiário
-- 🌱 Estudante de Engenharia de Software 📚🧑🏻‍💻 | 🤓 Apaixonado por programação 🚀
+- 🌱 Estudante de Engenharia de Software 📚🧑🏻‍💻 | 🤓 Apaixonado por inovação e tecnologia 🚀
 - ⚡ Pronouns: ele/dele
 
 <div>
