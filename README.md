@@ -1,12 +1,10 @@
 ## 👋 Olá! Eu sou o Darley
 <p>
-  <code>
-  public class OlaMundo {
+  <code>public class OlaMundo {
     public static void main(String[] args) {
         System.out.println("Olá, mundo!!");
     }
-}    
-  </code>
+}</code>
 
 <h3>Sobre mim:</h3>
 
