@@ -1,19 +1,4 @@
 ## 👋 Olá! Eu sou o Darley
-<p>
-  <code>public class OlaMundo {
-    public static void main(String[] args) {
-        System.out.println("Ei, seja bem-vindo ao meu Github!!");
-    }
-}</code>
-
-## Desenvolvimento, tecnologia e inovação!
-
-## > Ama livros;
-## Estuda engenharia de software, 5º semestre;
-
-# Desenvolvedor mobile Kotlin - Iniciante 🚀
-# Apaixonado por experiência do usuário e interfaces
-
 <div>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darleyleal98&show_icons=true&theme=github_dark"/>
