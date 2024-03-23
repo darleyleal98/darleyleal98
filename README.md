@@ -1,6 +1,28 @@
 ## 👋 Olá! Eu sou o Darley
+<p>
+  <code>public class OlaMundo {
+    public static void main(String[] args) {
+        System.out.println("Olá, mundo!!");
+    }
+}</code>
+
+## 🧑‍💻 Sobre mim:
+
+- 🔭 Hoje trabalho como estagiário em gestão de projetos no @GrupoUninter
+- 🌱 Estudante de Engenharia de Software 5/8 📚🧑🏻‍💻 | 🤓 Apaixonado por inovação e tecnologia 🚀
+- ⚡ Pronouns: ele/dele
+
+<p>Tenho base nos fundamentos da programação orientada a objetos em C# e Java. Atualmente iniciei um curso de desenvolvimento Android com Kotlin, pois é uma área que tenho 
+forte interesse por ser dinâmica, criativa, além da possibilidade de desenvolver aplicativos para diversos dispositivos. Além disso, tenho experiência com atendimento ao 
+público, o que me ensinou a valorizar o trabalho em equipe e a importância da proatividade.   </p>
+
 <div>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=darleyleal98&show_icons=true&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darleyleal98&layout=compact&langs_count=16&theme=github_dark"/>
+
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="darley-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="darley-android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
@@ -11,9 +33,6 @@
   <img align="center" alt="darley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="darley-.net" height="30" width="40" 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darleyleal98&layout=compact&langs_count=16&theme=github_dark"/>
-
 
   <picture>
   <source
@@ -40,5 +59,3 @@
   <a href="https://www.linkedin.com/in/darleyleal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-
