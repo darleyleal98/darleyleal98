@@ -13,8 +13,7 @@
 - ⚡ Pronouns: ele/dele
 
 <p>Tenho base nos fundamentos da programação orientada a objetos em C# e Java. Atualmente iniciei um curso de desenvolvimento Android com Kotlin, pois é uma área que tenho 
-forte interesse por ser dinâmica, criativa, além da possibilidade de desenvolver aplicativos para diversos dispositivos. Além disso, tenho experiência com atendimento ao 
-público, o que me ensinou a valorizar o trabalho em equipe e a importância da proatividade.   </p>
+forte interesse por ser dinâmica, criativa, além da possibilidade de desenvolver aplicativos para diversos dispositivos.   </p>
 
 <div>
 
