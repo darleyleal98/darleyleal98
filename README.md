@@ -1,9 +1,6 @@
 ## 👋 Olá! Eu sou o Darley
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darleyleal98&layout=compact&langs_count=16&theme=github_dark"/>
-
 </div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="darley-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="darley-android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
@@ -14,6 +11,9 @@
   <img align="center" alt="darley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="darley-.net" height="30" width="40" 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darleyleal98&layout=compact&langs_count=16&theme=github_dark"/>
+
 
   <picture>
   <source
