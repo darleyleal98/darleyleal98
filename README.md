@@ -5,16 +5,15 @@
         System.out.println("Ei, seja bem-vindo ao meu Github!!");
     }
 }</code>
-```diff
-@@ Darley Leal 🧑‍💻 @@
-@@ Desenvolvimento, tecnologia e inovação! @@
 
-> Ama livros;
-> Estuda engenharia de software, 5º semestre;
+## Desenvolvimento, tecnologia e inovação!
 
-! Desenvolvedor mobile Kotlin - Iniciante 🚀
-! Apaixonado por experiência do usuário e interfaces
-```
+## > Ama livros;
+## Estuda engenharia de software, 5º semestre;
+
+# Desenvolvedor mobile Kotlin - Iniciante 🚀
+# Apaixonado por experiência do usuário e interfaces
+
 <div>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darleyleal98&show_icons=true&theme=github_dark"/>
