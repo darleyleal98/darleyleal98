@@ -1,15 +1,5 @@
 ## 👋 Olá! Eu sou o Darley
 <div>
-
-<p>
-  <code>public class OlaMundo {
-    public static void main(String[] args) {
-        System.out.println("Ei, seja bem-vindo ao meu Github!!");
-    }
-}</code>
-
-<img height="400em" src="https://crehana-blog.imgix.net/media/filer_public/a2/a2/a2a2c4fb-5537-4805-8979-3db6b130aea1/que-es-kotlin.jpg?auto=format&q=45&w=1920&h=auto&fit=crop"/>
-<br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darleyleal98&layout=compact&langs_count=16&theme=github_dark"/>
 
 </div>
