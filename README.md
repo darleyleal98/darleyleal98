@@ -12,7 +12,7 @@
 - 🌱 Estudante de Engenharia de Software 5/8 📚🧑🏻‍💻 | 🤓 Apaixonado por inovação e tecnologia 🚀
 - ⚡ Pronouns: ele/dele
 
-<p>Tenho base nos fundamentos da programação orientada a objetos em C# e Java. Atualmente iniciei um curso de desenvolvimento Android com Kotlin, pois é uma área que tenho 
+<p>Atualmente iniciei um curso de desenvolvimento Android com Kotlin, pois é uma área que tenho 
 forte interesse por ser dinâmica, criativa, além da possibilidade de desenvolver aplicativos para diversos dispositivos.   </p>
 
 <div>
