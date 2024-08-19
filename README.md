@@ -8,14 +8,9 @@
 
 ## 🧑‍💻 Sobre mim:
 
-- 🔭 Hoje trabalho como estagiário em gestão de projetos no @GrupoUninter
+- 🔭 Hoje trabalho como Assistente de Governança de TI no @GrupoUninter
 - 🌱 Estudante de Engenharia de Software 5/8 📚🧑🏻‍💻 | 🤓 Apaixonado por inovação e tecnologia 🚀
 - ⚡ Pronouns: ele/dele
-
-<p>Atualmente iniciei um curso de desenvolvimento Android com Kotlin, pois é uma área que tenho 
-forte interesse por ser dinâmica, criativa, além da possibilidade de desenvolver aplicativos para diversos dispositivos.   </p>
-
-<div>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darleyleal98&show_icons=true&theme=github_dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darleyleal98&layout=compact&langs_count=16&theme=github_dark"/>
