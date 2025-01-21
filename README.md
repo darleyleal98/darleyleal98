@@ -5,23 +5,24 @@
 fun OlaMundo() {
     Text(text = "Bem-vindo ao meu perfil!!")
 }
+
+@Composable
+fun SobreMim() {
+    Column {
+        Text(text = "🔭 Atualmente trabalho como Assistente de Governança de TI no @GrupoUninter, onde sou responsável pelo planejamento e acompanhamento de projetos de infraestrutura de TI.")
+        Text(text = "🌱 Estudante de Engenharia de Software (6/8), apaixonado por inovação e tecnologia. Durante minha graduação, descobri minha paixão pelo desenvolvimento de apps Android utilizando o framework Jetpack Compose e atualmente estou estudando Dart com o framework Flutter.")
+        Text(text = "💻 Como desenvolvedor Android Jr., tenho experiência com:")
+        Text(text = "- Injeção de dependência com Hilt")
+        Text(text = "- Banco de dados Room")
+        Text(text = "- Navegação entre telas com o Navigation")
+        Text(text = "- Linguagem de programação Kotlin")
+        Text(text = "- Criação de interfaces com XML e Jetpack Compose")
+        Text(text = "- Integração com Firebase")
+        Text(text = "- Utilização do Figma para design de interface e criação de UIs intuitivas")
+        Text(text = "⚡ Pronouns: ele/dele")
+    }
+}
 ```
-
-## 🧑‍💻 Sobre mim:
-
-- 🔭 Atualmente trabalho como Assistente de Governança de TI no @GrupoUninter, onde sou responsável pelo planejamento e acompanhamento de projetos de infraestrutura de TI.
-- 🌱 Estudante de Engenharia de Software (6/8), apaixonado por inovação e tecnologia. Durante minha graduação, descobri minha paixão pelo desenvolvimento de apps Android utilizando o framework Jetpack Compose e atualmente estou estudando Dart com o framework Flutter.
-  
-- 💻 Como desenvolvedor Android Jr., tenho experiência com:
-  - Injeção de dependência com Hilt
-  - Banco de dados Room
-  - Navegação entre telas com o Navigation
-  - Linguagem de programação Kotlin
-  - Criação de interfaces com XML e Jetpack Compose
-  - Integração com Firebase
-  - Utilização do Figma para design de interface e criação de UIs intuitivas
-
-- ⚡ Pronouns: ele/dele
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darleyleal98&show_icons=true&theme=github_dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darleyleal98&layout=compact&langs_count=16&theme=github_dark"/>
