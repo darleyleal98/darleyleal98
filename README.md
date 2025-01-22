@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o Darley
 
-### "Olá! Eu sou Darley, um apaixonado por tecnologia e inovação, atualmente trabalhando como Assistente de Governança de TI no @GrupoUninter. Sou estudante de Engenharia de Software e desenvolvedor Android Jr."
+### Olá! Eu sou Darley, um apaixonado por tecnologia e inovação, atualmente trabalhando como Assistente de Governança de TI no @GrupoUninter. Sou estudante de Engenharia de Software e desenvolvedor Android Jr.
 
 ```kotlin
 @Composable
