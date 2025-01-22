@@ -43,6 +43,7 @@ Desenvolvi este aplicativo para praticar os seguintes conceitos:
 **Competências:** Android, Navigation, Lazy Layout, Jetpack Compose, Kotlin, Programação Orientada a Objetos (POO), Room Database
 
 *https://github.com/darleyleal98/keep-memo-app*
+
 ---
 
 ### Jet Tip
@@ -101,6 +102,8 @@ Conteúdos colocados em prática:
 - Navegação entre composables utilizando a biblioteca Navigation.
 - Implementação do TopBar e BottomBar, aplicando conceitos de experiência do usuário.
 
+*https://github.com/darleyleal98/app-restaurante-leal*
+
 ---
 
 ### Food Express
@@ -116,6 +119,8 @@ Conteúdos colocados em prática:
 - Aplicação de State Hoisting.
 - Utilização da API de Slot.
 
+*https://github.com/darleyleal98/food-express*
+
 ---
 
 ### E-Commerce - Lista de Produtos [Branch: M_Interfaces]
@@ -130,6 +135,10 @@ Tópicos abordados:
 - Binding de views.
 - Implementação de listeners de clique.
 - Refatoração de código.
+
+*https://github.com/darleyleal98/lista-de-produtos*
+
+---
 
 <div style="display: inline_block"><br>
   <img align="center" alt="darley-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
