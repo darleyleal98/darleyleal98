@@ -41,6 +41,7 @@ Desenvolvi este aplicativo para praticar os seguintes conceitos:
 - LazyVerticalStaggeredGrid para listagem adaptada das notas.
 
 **Competências:** Android, Navigation, Lazy Layout, Jetpack Compose, Kotlin, Programação Orientada a Objetos (POO), Room Database
+
 *https://github.com/darleyleal98/keep-memo-app*
 ---
 
@@ -50,6 +51,8 @@ Desenvolvi este aplicativo para praticar os seguintes conceitos:
 **Linguagem do Projeto:** Kotlin, utilizando Jetpack Compose
 
 Desenvolvi um aplicativo que permite calcular a divisão de uma conta, onde é possível inserir o valor total, a quantidade de pessoas e a porcentagem de gorjeta. Este projeto foi criado para praticar os conceitos de "Recomposição" no Jetpack Compose.
+
+*https://github.com/darleyleal98/jettip*
 
 ---
 
@@ -68,6 +71,8 @@ Outras tecnologias utilizadas:
 
 **Competências:** Desenvolvimento Android, Android Jetpack
 
+*https://github.com/darleyleal98/my-movies-crud-app*
+
 ---
 
 ### E-Waste Manager
@@ -82,6 +87,8 @@ Outras tecnologias utilizadas:
 - Jetpack Compose para criação da interface seguindo os padrões do Material Design.
 
 **Competências:** Firebase, Android Jetpack, Room Database
+
+*https://github.com/darleyleal98/e-waste-manager*
 
 ---
 
