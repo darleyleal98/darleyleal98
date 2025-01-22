@@ -28,10 +28,6 @@ fun SobreMim() {
 
 ## Meus principais projetos
 
-Claro, Darley! Aqui estão algumas sugestões de como você pode organizar e apresentar esses projetos no GitHub de forma profissional:
-
----
-
 ### Keep Memo
 
 **Período:** Nov de 2024 - Dez de 2024  
@@ -127,60 +123,6 @@ Tópicos abordados:
 - Binding de views.
 - Implementação de listeners de clique.
 - Refatoração de código.
-
-**Competências:** XML, Intent, Recycler View, Constraint Layout
-
----
-
-### App CRUD de Usuários
-
-**Período:** Mai de 2024  
-Desenvolvi um aplicativo para praticar conceitos de MVVM, onde criei a model com informações do usuário, a viewModel com as regras de negócio, incluindo métodos para inserir, listar, remover e editar usuários. Também coloquei em prática conceitos como lógica de programação, orientação a objetos e XML.
-
----
-
-### Coffee With Code
-
-**Período:** Mai de 2024  
-Desenvolvi um aplicativo para pedidos de uma cafeteria, onde coloquei em prática a lógica de programação em Kotlin, a criação da interface em XML e os conceitos da arquitetura MVVM.
-
----
-
-### Gestão Acadêmica - .NET
-
-**Período:** Mai de 2024  
-**Linguagem:** C# - .NET 8  
-**Blazor:** SPA  
-**SGBD:** SQLite
-
-O intuito desse sistema foi colocar em prática a programação orientada a objetos em C#, utilizando a persistência de dados em um CRUD com as operações de criar, ler, atualizar e deletar alunos cadastrados. Para isso, utilizei o Blazor para a criação do projeto.
-
-**Competências:** .NET Framework, C#, SQLite
-
----
-
-### MY GYM - App Android com Kotlin
-
-**Período:** Mai de 2024  
-Desenvolvi um aplicativo que oferece dicas para criar hábitos saudáveis relacionados à alimentação e exercícios. A implementação foi realizada em Kotlin.
-
----
-
-### App Custo de Viagem
-
-**Período:** Abr de 2024  
-Desenvolvi um aplicativo que calcula o valor de uma viagem com base na distância especificada pelo usuário, no valor do combustível e na autonomia do automóvel.
-
----
-
-### Motivation - App Android com Kotlin
-
-**Período:** Mar de 2024  
-Desenvolvi um aplicativo Android que exibe frases motivacionais aos usuários. Neste projeto, coloquei em prática a criação de interfaces com XML, a orientação a objetos com Kotlin, e a configuração da Status e Navigation bar para tornar a interface do usuário mais bonita e intuitiva. Além disso, utilizei Shared Preferences para armazenar o nome do usuário em memória, permitindo dar boas-vindas ao acessar o app.
-
----
-
-Espero que essas sugestões ajudem a destacar seus projetos de forma clara e profissional no GitHub. Se precisar de mais alguma coisa, estou à disposição! 😊
 
 <div style="display: inline_block"><br>
   <img align="center" alt="darley-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
