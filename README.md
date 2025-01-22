@@ -26,6 +26,162 @@ fun SobreMim() {
 }
 ```
 
+## Meus principais projetos
+
+Claro, Darley! Aqui estão algumas sugestões de como você pode organizar e apresentar esses projetos no GitHub de forma profissional:
+
+---
+
+### Keep Memo
+
+**Período:** Nov de 2024 - Dez de 2024  
+**Linguagem do Projeto:** Kotlin, utilizando Jetpack Compose
+
+Desenvolvi este aplicativo para praticar os seguintes conceitos:
+- Arquitetura MVVM para organização do projeto.
+- Coroutines para garantir uma interação fluida do app.
+- Navigation para navegação entre telas.
+- Room para armazenamento local das informações.
+- LazyVerticalStaggeredGrid para listagem adaptada das notas.
+
+**Competências:** Android, Navigation, Lazy Layout, Jetpack Compose, Kotlin, Programação Orientada a Objetos (POO), Room Database
+
+---
+
+### Jet Tip
+
+**Período:** Nov de 2024  
+**Linguagem do Projeto:** Kotlin, utilizando Jetpack Compose
+
+Desenvolvi um aplicativo que permite calcular a divisão de uma conta, onde é possível inserir o valor total, a quantidade de pessoas e a porcentagem de gorjeta. Este projeto foi criado para praticar os conceitos de "Recomposição" no Jetpack Compose.
+
+---
+
+### My Movies
+
+**Período:** Out de 2024 - Nov de 2024  
+**Linguagem do Projeto:** Kotlin, utilizando Jetpack Compose
+
+Outras tecnologias utilizadas:
+- Jetpack Compose para a interface.
+- Room para persistência de dados.
+- Coil para carregamento de imagens.
+- Arquitetura MVVM com Composables, ViewModel, Model, DAO e Repository.
+- Navigation para navegação entre telas.
+- Componente YoutubePlayer para carregar vídeos do YouTube.
+
+**Competências:** Desenvolvimento Android, Android Jetpack
+
+---
+
+### E-Waste Manager
+
+**Período:** Set de 2024  
+**Linguagem do Projeto:** Kotlin, utilizando Jetpack Compose
+
+Outras tecnologias utilizadas:
+- Firebase para autenticação dos usuários.
+- Navigation para navegação entre composables.
+- Room para persistência local dos dados.
+- Jetpack Compose para criação da interface seguindo os padrões do Material Design.
+
+**Competências:** Firebase, Android Jetpack, Room Database
+
+---
+
+### App Restaurante Leal
+
+**Período:** Ago de 2024  
+**Linguagem do Projeto:** Kotlin, utilizando Jetpack Compose
+
+Conteúdos colocados em prática:
+- Navegação entre composables utilizando a biblioteca Navigation.
+- Implementação do TopBar e BottomBar, aplicando conceitos de experiência do usuário.
+
+---
+
+### Food Express
+
+**Período:** Jul de 2024  
+**Linguagem do Projeto:** Kotlin, utilizando Jetpack Compose
+
+Conteúdos colocados em prática:
+- Carregamento de imagens via URL.
+- Criação de campos de texto.
+- Gerenciamento de estados.
+- Implementação de Lazy Layout.
+- Aplicação de State Hoisting.
+- Utilização da API de Slot.
+
+---
+
+### E-Commerce - Lista de Produtos [Branch: M_Interfaces]
+
+**Período:** Jun de 2024  
+**Linguagem do Projeto:** Kotlin
+
+Tópicos abordados:
+- Implementação de activities.
+- Criação de layouts utilizando ConstraintLayout.
+- Utilização de views como TextView, RecyclerView, EditText e Button.
+- Binding de views.
+- Implementação de listeners de clique.
+- Refatoração de código.
+
+**Competências:** XML, Intent, Recycler View, Constraint Layout
+
+---
+
+### App CRUD de Usuários
+
+**Período:** Mai de 2024  
+Desenvolvi um aplicativo para praticar conceitos de MVVM, onde criei a model com informações do usuário, a viewModel com as regras de negócio, incluindo métodos para inserir, listar, remover e editar usuários. Também coloquei em prática conceitos como lógica de programação, orientação a objetos e XML.
+
+---
+
+### Coffee With Code
+
+**Período:** Mai de 2024  
+Desenvolvi um aplicativo para pedidos de uma cafeteria, onde coloquei em prática a lógica de programação em Kotlin, a criação da interface em XML e os conceitos da arquitetura MVVM.
+
+---
+
+### Gestão Acadêmica - .NET
+
+**Período:** Mai de 2024  
+**Linguagem:** C# - .NET 8  
+**Blazor:** SPA  
+**SGBD:** SQLite
+
+O intuito desse sistema foi colocar em prática a programação orientada a objetos em C#, utilizando a persistência de dados em um CRUD com as operações de criar, ler, atualizar e deletar alunos cadastrados. Para isso, utilizei o Blazor para a criação do projeto.
+
+**Competências:** .NET Framework, C#, SQLite
+
+---
+
+### MY GYM - App Android com Kotlin
+
+**Período:** Mai de 2024  
+Desenvolvi um aplicativo que oferece dicas para criar hábitos saudáveis relacionados à alimentação e exercícios. A implementação foi realizada em Kotlin.
+
+---
+
+### App Custo de Viagem
+
+**Período:** Abr de 2024  
+Desenvolvi um aplicativo que calcula o valor de uma viagem com base na distância especificada pelo usuário, no valor do combustível e na autonomia do automóvel.
+
+---
+
+### Motivation - App Android com Kotlin
+
+**Período:** Mar de 2024  
+Desenvolvi um aplicativo Android que exibe frases motivacionais aos usuários. Neste projeto, coloquei em prática a criação de interfaces com XML, a orientação a objetos com Kotlin, e a configuração da Status e Navigation bar para tornar a interface do usuário mais bonita e intuitiva. Além disso, utilizei Shared Preferences para armazenar o nome do usuário em memória, permitindo dar boas-vindas ao acessar o app.
+
+---
+
+Espero que essas sugestões ajudem a destacar seus projetos de forma clara e profissional no GitHub. Se precisar de mais alguma coisa, estou à disposição! 😊
+
 <div style="display: inline_block"><br>
   <img align="center" alt="darley-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="darley-android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
@@ -39,7 +195,6 @@ fun SobreMim() {
 </picture>
 
 <div> 
-  <a href="https://instagram.com/darleyleal_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="mailto:darleyleal98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/darleyleal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
