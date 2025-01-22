@@ -26,7 +26,7 @@ fun SobreMim() {
 }
 ```
 
-## Meus principais projetos
+## 🚀Meus principais projetos
 
 ### Keep Memo
 
@@ -41,7 +41,7 @@ Desenvolvi este aplicativo para praticar os seguintes conceitos:
 - LazyVerticalStaggeredGrid para listagem adaptada das notas.
 
 **Competências:** Android, Navigation, Lazy Layout, Jetpack Compose, Kotlin, Programação Orientada a Objetos (POO), Room Database
-
+*https://github.com/darleyleal98/keep-memo-app*
 ---
 
 ### Jet Tip
