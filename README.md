@@ -24,7 +24,6 @@ fun SobreMim() {
 }
 ```
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=darleyleal98&show_icons=true&theme=github_dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darleyleal98&layout=compact&langs_count=16&theme=github_dark"/>
 
 <div style="display: inline_block"><br>
