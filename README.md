@@ -34,6 +34,8 @@ fun SobreMim() {
   <img align="center" alt="darley-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
 </div>
 
+--- 
+
 ### Finance Buddy
 
 **Período:** Dez de 2024 - Jan de 2025  
