@@ -55,9 +55,10 @@ Tecnologias e Arquitetura Utilizadas:
   
 
 **Competências:** Android, Navigation, Lazy Layout, Jetpack Compose, Kotlin, Programação Orientada a Objetos (POO), Room Database, Hilt, Coil
-**Documentação:** *https://github.com/darleyleal98/finance-buddy-app/blob/main/app/src/main/java/com/darleyleal/financebuddy/documentation/FinanceBuddy%20Documentation%20Version%201.pdf*
 
 *https://github.com/darleyleal98/finance-buddy-app*
+
+**Documentação:** *https://github.com/darleyleal98/finance-buddy-app/blob/main/app/src/main/java/com/darleyleal/financebuddy/documentation/FinanceBuddy%20Documentation%20Version%201.pdf*
 
 ---
 
