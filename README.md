@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o Darley
 
-#### Apaixonado por tecnologia e inovação, atualmente trabalhando como Assistente de Governança de TI no @GrupoUninter. Sou estudante de Engenharia de Software e desenvolvedor Android Jr.
+#### Apaixonado por tecnologia e inovação. Sou desenvolvedor mobile, atuando com android nativo e React Native.
 
 ```kotlin
 @Composable
