@@ -11,16 +11,18 @@ fun OlaMundo() {
 @Composable
 fun SobreMim() {
     Column {
-        Text(text = "🔭 Atualmente trabalho como Assistente de Governança de TI no @GrupoUninter, onde sou responsável pelo planejamento e acompanhamento de projetos de infraestrutura de TI.")
-        Text(text = "🌱 Estudante de Engenharia de Software (6/8), apaixonado por inovação e tecnologia. Durante minha graduação, descobri minha paixão pelo desenvolvimento de apps Android utilizando o framework Jetpack Compose e atualmente estou estudando Dart com o framework Flutter.")
-        Text(text = "💻 Como desenvolvedor Android Jr., tenho experiência com:")
-        Text(text = "- Injeção de dependência com Hilt")
-        Text(text = "- Banco de dados Room")
-        Text(text = "- Navegação entre telas com o Navigation")
-        Text(text = "- Linguagem de programação Kotlin")
-        Text(text = "- Criação de interfaces com XML e Jetpack Compose")
-        Text(text = "- Integração com Firebase")
-        Text(text = "- Utilização do Figma para design de interface e criação de UIs intuitivas")
+        Text(text = "Olá, eu sou o Darley! 🧑‍💻")
+        Text(text = "🎓 Graduando em Engenharia de Software (7º período), com foco em desenvolvimento de aplicações móveis.")
+        Text(text = "💼 Atualmente atuo como Desenvolvedor Android.")
+        Text(text = "🚀 Minhas principais atividades incluem:")
+        Text(text = "- Análise de requisitos para desenvolvimento de aplicações")
+        Text(text = "- Planejamento e gestão de atividades no ClickUp")
+        Text(text = "- Desenho técnico e prototipação de interfaces no Figma")
+        Text(text = "- Desenvolvimento e manutenção de apps Android nativos (Kotlin, Java)")
+        Text(text = "- Criação de interfaces com Jetpack Compose e XML")
+        Text(text = "- Desenvolvimento e suporte a aplicações multiplataforma com React Native (TypeScript)")
+        Text(text = "🌟 Tenho grande paixão por criar soluções que combinam tecnologia e ótima experiência para o usuário.")
+        Text(text = "📚 Além disso, concluí cursos de Scrum e gerenciamento de projetos.")
         Text(text = "⚡ Pronouns: ele/dele")
     }
 }
