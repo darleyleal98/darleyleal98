@@ -42,8 +42,6 @@ fun SobreMim() {
   <img align="center" alt="darley-dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" />
 </div>
 
---- 
-
 ## 🚀Meus principais projetos
 
 ### Finance Buddy
