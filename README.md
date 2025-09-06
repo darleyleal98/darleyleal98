@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o Darley
 
-#### Engenheiro de Software | Mobile Developer | Android Nativo & Cross-Platform (React Native, Flutter).
+#### Engenheiro de Software Mobile | Android (Kotlin & Jetpack Compose) | Multiplataforma (Flutter & React Native)
 
 ```kotlin
 
