@@ -30,7 +30,7 @@ fun SobreMim() {
 
 ```
 
-## 🚀Meus principais projetos
+## 🚀Tecnologias usadas em projetos que atuei
 
 <div style="display: inline_block"><br>
   <img align="center" alt="darley-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
@@ -43,6 +43,8 @@ fun SobreMim() {
 </div>
 
 --- 
+
+## 🚀Meus principais projetos
 
 ### Finance Buddy
 
