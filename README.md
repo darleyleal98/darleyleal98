@@ -1,31 +1,33 @@
 ## 👋 Olá! Eu sou o Darley
 
-#### Apaixonado por tecnologia e inovação. Sou desenvolvedor mobile, atuando com android nativo e React Native.
+#### Engenheiro de Software | Mobile Developer | Android Nativo & Cross-Platform (React Native, Flutter).
 
 ```kotlin
+
 @Composable
 fun OlaMundo() {
-    Text(text = "Bem-vindo ao meu perfil!!")
+    Text(text = "Bem-vindo ao meu perfil! 🚀")
 }
 
 @Composable
 fun SobreMim() {
     Column {
         Text(text = "Olá, eu sou o Darley! 🧑‍💻")
-        Text(text = "🎓 Graduando em Engenharia de Software (7º período), com foco em desenvolvimento de aplicações móveis.")
-        Text(text = "💼 Atualmente atuo como Desenvolvedor Android.")
-        Text(text = "🚀 Minhas principais atividades incluem:")
-        Text(text = "- Análise de requisitos para desenvolvimento de aplicações")
-        Text(text = "- Planejamento e gestão de atividades no ClickUp")
-        Text(text = "- Desenho técnico e prototipação de interfaces no Figma")
-        Text(text = "- Desenvolvimento e manutenção de apps Android nativos (Kotlin, Java)")
-        Text(text = "- Criação de interfaces com Jetpack Compose e XML")
-        Text(text = "- Desenvolvimento e suporte a aplicações multiplataforma com React Native (TypeScript)")
-        Text(text = "🌟 Tenho grande paixão por criar soluções que combinam tecnologia e ótima experiência para o usuário.")
-        Text(text = "📚 Além disso, concluí cursos de Scrum e gerenciamento de projetos.")
+        Text(text = "💼 Experiência em desenvolvimento Android Nativo (Kotlin, Java, Jetpack Compose, XML) e apps multiplataforma (React Native, Flutter).")
+        Text(text = "🚀 Atuo no ciclo completo de desenvolvimento mobile:")
+        Text(text = "- Análise de requisitos e definição de arquitetura de apps")
+        Text(text = "- Planejamento e gestão de atividades (ClickUp, Azure DevOps)")
+        Text(text = "- Desenho técnico e prototipação de interfaces (Figma)")
+        Text(text = "- Desenvolvimento, manutenção e otimização de apps")
+        Text(text = "- Integração com APIs, SQLite e soluções offline-first")
+        Text(text = "- Aplicação de metodologias ágeis (Scrum, Kanban) e boas práticas de engenharia")
+        Text(text = "🌟 Apaixonado por criar soluções que combinam tecnologia, experiência do usuário e resultados reais.")
+        Text(text = "📚 Certificado em Scrum e gerenciamento de projetos, com experiência em governança de TI e acompanhamento de entregas.")
         Text(text = "⚡ Pronouns: ele/dele")
     }
 }
+
+
 ```
 
 ## 🚀Meus principais projetos
