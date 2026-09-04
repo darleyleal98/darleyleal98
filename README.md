@@ -25,13 +25,53 @@ fun SobreMim() {
     }
 }
 
-🧰 Tecnologias
+class SoftwareEngineer {
 
-Mobile: Kotlin · Android · Jetpack Compose · XML · Flutter · React Native · iOS
-Arquitetura & Dados: Clean Architecture · MVVM · Offline-first · SQLite · WatermelonDB · Hilt · Room · Coil · ML Kit
-Web & Integrações: Next.js · REST APIs
-Ferramentas: Git · Android Studio · Azure DevOps · Figma · ClickUp · Cursor
-Metodologias: Scrum · Kanban · ITIL 4
+    val mobile = listOf(
+        "Kotlin",
+        "Android",
+        "Jetpack Compose",
+        "XML",
+        "Flutter",
+        "React Native",
+        "iOS"
+    )
+
+    val architectureAndData = listOf(
+        "Clean Architecture",
+        "MVVM",
+        "Offline-first",
+        "SQLite",
+        "WatermelonDB",
+        "Hilt",
+        "Room",
+        "Coil",
+        "ML Kit"
+    )
+
+    val webAndIntegrations = listOf(
+        "Next.js",
+        "REST APIs"
+    )
+
+    val tools = listOf(
+        "Git",
+        "Android Studio",
+        "Azure DevOps",
+        "Figma",
+        "ClickUp",
+        "Cursor"
+    )
+
+    val methodologies = listOf(
+        "Scrum",
+        "Kanban",
+        "ITIL 4"
+    )
+}
+
+```kotlin
+
 
 ```
 
