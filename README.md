@@ -70,9 +70,6 @@ class SoftwareEngineer {
     )
 }
 
-```kotlin
-
-
 ```
 
 ## 🚀Tecnologias usadas em projetos que atuei
