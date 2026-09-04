@@ -16,11 +16,10 @@ fun SobreMim() {
         Text(text = "💼 Engenheiro de Software com experiência em desenvolvimento Android nativo e aplicações mobile multiplataforma.")
         Text(text = "📱 Trabalho principalmente com Kotlin, Android, Jetpack Compose, XML, Flutter e React Native.")
         Text(text = "🏗️ Experiência com Clean Architecture, MVVM, desenvolvimento offline-first e integração com APIs e bancos de dados.")
-        Text(text = "🔌 Atuação com sistemas embarcados, integração com sensores via USB e modernização de aplicações legadas.")
+        Text(text = "🔌 Integração com sensores via USB e modernização de aplicações legadas.")
         Text(text = "🚀 Experiência em todo o ciclo de desenvolvimento mobile, desde análise de requisitos e definição de arquitetura até desenvolvimento, manutenção e publicação de aplicações.")
         Text(text = "🛠️ Utilizo Git, Android Studio, Azure DevOps, Figma, ClickUp e ferramentas de IA como parte do processo de desenvolvimento.")
         Text(text = "🌱 Atualmente, estou me especializando em Inteligência Artificial e Machine Learning.")
-        Text(text = "🎯 Meu objetivo é construir soluções de software eficientes, escaláveis e que gerem impacto real para seus usuários.")
         Text(text = "⚡ Pronouns: ele/dele")
     }
 }
