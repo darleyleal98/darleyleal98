@@ -13,20 +13,25 @@ fun OlaMundo() {
 fun SobreMim() {
     Column {
         Text(text = "Olá, eu sou o Darley! 🧑‍💻")
-        Text(text = "💼 Experiência em desenvolvimento Android Nativo (Kotlin, Java, Jetpack Compose, XML) e apps multiplataforma (React Native, Flutter).")
-        Text(text = "🚀 Atuo no ciclo completo de desenvolvimento mobile:")
-        Text(text = "- Análise de requisitos e definição de arquitetura de apps")
-        Text(text = "- Planejamento e gestão de atividades (ClickUp, Azure DevOps)")
-        Text(text = "- Desenho técnico e prototipação de interfaces (Figma)")
-        Text(text = "- Desenvolvimento, manutenção e otimização de apps")
-        Text(text = "- Integração com APIs, SQLite e soluções offline-first")
-        Text(text = "- Aplicação de metodologias ágeis (Scrum, Kanban) e boas práticas de engenharia")
-        Text(text = "🌟 Apaixonado por criar soluções que combinam tecnologia, experiência do usuário e resultados reais.")
-        Text(text = "📚 Certificado em Scrum e gerenciamento de projetos, com experiência em governança de TI e acompanhamento de entregas.")
+        Text(text = "💼 Engenheiro de Software com experiência em desenvolvimento Android nativo e aplicações mobile multiplataforma.")
+        Text(text = "📱 Trabalho principalmente com Kotlin, Android, Jetpack Compose, XML, Flutter e React Native.")
+        Text(text = "🏗️ Experiência com Clean Architecture, MVVM, desenvolvimento offline-first e integração com APIs e bancos de dados.")
+        Text(text = "🔌 Atuação com sistemas embarcados, integração com sensores via USB e modernização de aplicações legadas.")
+        Text(text = "🚀 Experiência em todo o ciclo de desenvolvimento mobile, desde análise de requisitos e definição de arquitetura até desenvolvimento, manutenção e publicação de aplicações.")
+        Text(text = "🛠️ Utilizo Git, Android Studio, Azure DevOps, Figma, ClickUp e ferramentas de IA como parte do processo de desenvolvimento.")
+        Text(text = "🌱 Atualmente, estou me especializando em Inteligência Artificial e Machine Learning.")
+        Text(text = "🎯 Meu objetivo é construir soluções de software eficientes, escaláveis e que gerem impacto real para seus usuários.")
         Text(text = "⚡ Pronouns: ele/dele")
     }
 }
 
+🧰 Tecnologias
+
+Mobile: Kotlin · Android · Jetpack Compose · XML · Flutter · React Native · iOS
+Arquitetura & Dados: Clean Architecture · MVVM · Offline-first · SQLite · WatermelonDB · Hilt · Room · Coil · ML Kit
+Web & Integrações: Next.js · REST APIs
+Ferramentas: Git · Android Studio · Azure DevOps · Figma · ClickUp · Cursor
+Metodologias: Scrum · Kanban · ITIL 4
 
 ```
 
